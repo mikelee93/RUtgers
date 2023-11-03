@@ -1,0 +1,32 @@
+pset1
+
+(-5)5. b is true; d is true; e is false; h is false; j is true
+HANG GAO , Jul 27 at 10:28pm
+(-5) 1: You need to show lower bounds as well to satisfy big theta. 
+
+(-6) 2: You need to show if the relation is satisfied or not for EACH function
+
+(-2) 3: Cannot use stirlings approx, need to use relation from quiz.
+
+pset2
+
+(-4)5.b -> pick in the range ((select(A, n/4)), (select(A, 3n/4)))
+HANG GAO , Jul 29 at 1:18am
+1,2,3 good
+
+exam1 
+
+(-2) 5a: 12
+(-3) 5d: Think about using merge sort
+(-5) 6a: Does indeed sort
+(-2) 6b: O(nk + nlog(n/k))
+(-1) 6c: k = O(logn)
+(-5) 7b: binary search can work here
+(+0) 8: Need to show a counter example
+ALBORZ JELVANI , Aug 11 at 3:13pm
+(-3)2b.True
+(-2)3a.n^(r+s)
+(-2)3c.n^r
+(-2)3d.n^rlogn
+
+exam2
