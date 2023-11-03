@@ -1,0 +1,19 @@
+First, I downloaded the MySQL Connector JDBC driver.
+
+The prerequisite to run this application is to have database connection driver in project folder.
+
+Next, I have added the JDBC driver to my Java project by adding the JAR file to my project's classpath.
+
+Also created a new Java class that will handle the database connection. In this class, I have imported the necessary JDBC classes (e.g. Connection, DriverManager, etc.) and define the database connection URL, username, and password.
+
+Then for the database connection information, I used the DriverManager.getConnection() method to establish a connection to the database. This method takes the database connection URL, username, and password as arguments.
+
+After establishing a connection to the database, Statement objects are created to execute SQL queries against the database. I used these objects to insert, update, or delete data from the database, as well as to retrieve data from the database using SELECT queries.
+
+Then for databases, I used MYSQL Workbench and made databases and tables as showed in queries files.
+
+For Random Records I loaded from the excel by queries.
+
+Then for further amendments in database I used MYSQL.
+
+Database connection and the queries selection and logical code is done in solution.java file.  
